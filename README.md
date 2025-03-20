@@ -80,13 +80,6 @@ Middleware for authentication, error handling, and data validation.
 
 MongoDB collections for users, products, and orders.
 
-### Deployment:
-
-Frontend hosted on Vercel.
-
-Backend deployed on Heroku.
-
-Database hosted on MongoDB Atlas.
 
 ### Challenges Faced
 
